@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库-private/个人/面试相关/面试话术精华.md",
+                "file": "知识库-private/PC维护/windows/windows故障 汇总.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库-private/个人/面试相关/面试话术精华.md",
+                "file": "知识库-private/PC维护/windows/windows故障 汇总.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库-private/个人/面试相关/面试话术精华.md",
+                "file": "知识库-private/PC维护/windows/windows故障 汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库-private/个人/面试相关/面试话术精华.md"
+                "file": "知识库-private/PC维护/windows/windows故障 汇总.md"
               }
             }
           },
@@ -232,9 +232,10 @@
   },
   "active": "67d89938689efe2e",
   "lastOpenFiles": [
-    "50-Inbox/50-Inbox.md",
-    "知识库-private/个人/面试相关/面试话术精华.md",
+    "99-Attachment/Pasted image 20230915163357.png",
     "知识库-private/PC维护/windows/windows故障 汇总.md",
+    "知识库-private/个人/面试相关/面试话术精华.md",
+    "50-Inbox/50-Inbox.md",
     "知识库-private/个人/面试相关/1",
     "知识库-private/个人/面试相关",
     "99-Attachment/Pasted image 20230915165258.png",
@@ -243,7 +244,6 @@
     "99-Attachment/Pasted image 20230915164317.png",
     "99-Attachment/Pasted image 20230915164102.png",
     "99-Attachment/Pasted image 20230915163506.png",
-    "99-Attachment/Pasted image 20230915163357.png",
     "知识库-private/个人/打印机/打印机-基础.md",
     "99-Attachment/Pasted image 20230911170428.png",
     "知识库-private/开发工具/浏览器/百度搜索-高级.md",
@@ -272,7 +272,6 @@
     "知识库-private/前端/小程序/uni-app项目怎么运行？.md",
     "host备份.md",
     "Untitled.md",
-    "txt_repository/音乐/foobar2000/foobar2000-dream7180.md",
     "知识库-private/前端/小程序",
     "知识库-private/前端",
     "知识库-private",
