@@ -1,0 +1,154 @@
+{
+  "strategy": "chinese",
+  "cedictPath": ".obsidian/cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 2,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 100,
+  "disableSuggestionsDuringImeOn": true,
+  "insertAfterCompletion": false,
+  "firstCharactersDisableSuggestions": "-#:/^@",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": false,
+  "showComplementAutomatically": false,
+  "showIndexingStatus": false,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Tab",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "Shift+Enter",
+  "propagateEsc": true,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": true,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "Template",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": true,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "Complements": {
+      "Complements": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1691659965947
+        }
+      }
+    },
+    "帮助": {
+      "帮助": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1691662180227
+        }
+      }
+    },
+    "快捷键": {
+      "快捷键": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1691662333545
+        }
+      }
+    },
+    "移植": {
+      "移植": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1691719097630
+        }
+      }
+    },
+    "目录": {
+      "目录": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1691719191565
+        }
+      }
+    },
+    "style": {
+      "style": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1691742196256
+        }
+      }
+    },
+    "简介": {
+      "简介": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1691742611495
+        }
+      }
+    },
+    "结合": {
+      "结合": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1691744243188
+        }
+      }
+    },
+    "topaz--style": {
+      "topaz--style": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1691806268240
+        }
+      }
+    },
+    "Warp+": {
+      "Warp+": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1692497411801
+        }
+      }
+    },
+    "Graph": {
+      "Graph": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1694136207473
+        }
+      }
+    },
+    "接触不良": {
+      "接触不良": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694767775166
+        }
+      }
+    }
+  }
+}

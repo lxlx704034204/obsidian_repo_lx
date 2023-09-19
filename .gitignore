@@ -8,7 +8,7 @@ public/
 _multiconfig.yml
 
 .idea
-.obsidian
+//.obsidian
 .mobile
 /60-Canvas/Home_middle.canvas
 .trash

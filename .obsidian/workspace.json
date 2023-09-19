@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "831d3e577a7fa90a",
+    "type": "split",
+    "children": [
+      {
+        "id": "46f2a7edd9b974e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4483f1affd038b13",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "txt_repository/Obsidian入门/插件 汇总/插件 分类.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "519f5991c0a460df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "txt_repository/Obsidian入门/PicGo上传图片压缩插件.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "67d89938689efe2e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库-private/个人/面试相关/面试话术精华.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50f614a9270fd78d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8ea245c596851b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94527b9924a3d887",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57729b7648f21f4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59a3a02638d44ce1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea21ad4dbe454cba",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac31793a9398d87b",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "right": {
+    "id": "c74b8bacdcbb5f71",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5d3f71c4bf05d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8642b9b66b2fe1b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识库-private/个人/面试相关/面试话术精华.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2139cb80b7455955",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识库-private/个人/面试相关/面试话术精华.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b96a51896a5efef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "76557621beabebd6",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e58fec55d082fbf3",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "190729211a152c26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识库-private/个人/面试相关/面试话术精华.md"
+              }
+            }
+          },
+          {
+            "id": "c8775049ac6ea106",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "omnisearch:Omnisearch": false,
+      "graph:查看关系图谱": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "canvas:新建白板": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "templates:插入模板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:创建一个新数据库表": false
+    }
+  },
+  "active": "67d89938689efe2e",
+  "lastOpenFiles": [
+    "50-Inbox/50-Inbox.md",
+    "知识库-private/个人/面试相关/面试话术精华.md",
+    "知识库-private/PC维护/windows/windows故障 汇总.md",
+    "知识库-private/个人/面试相关/1",
+    "知识库-private/个人/面试相关",
+    "99-Attachment/Pasted image 20230915165258.png",
+    "99-Attachment/Pasted image 20230915164909.png",
+    "99-Attachment/Pasted image 20230915164518.png",
+    "99-Attachment/Pasted image 20230915164317.png",
+    "99-Attachment/Pasted image 20230915164102.png",
+    "99-Attachment/Pasted image 20230915163506.png",
+    "99-Attachment/Pasted image 20230915163357.png",
+    "知识库-private/个人/打印机/打印机-基础.md",
+    "99-Attachment/Pasted image 20230911170428.png",
+    "知识库-private/开发工具/浏览器/百度搜索-高级.md",
+    "知识库-private/PC维护/windows",
+    "知识库-private/PC维护",
+    "知识库-private/开发工具/未命名",
+    "txt_repository/Obsidian入门/插件 汇总/插件 分类.md",
+    "99-Attachment/Pasted image 20230808104726.png",
+    "99-Attachment/Pasted image 20230816114607.png",
+    "txt_repository/Obsidian入门/PicGo上传图片压缩插件.md",
+    "txt_repository/Obsidian入门/插件 汇总/PicGo GitHub个人图床搭建.md",
+    "lx331.md",
+    "txt_repository/Obsidian入门/obsidian常用快捷键.md",
+    "txt_repository/Obsidian入门/ob重点功能 备忘入门.md",
+    "知识库-private/个人/婚礼/西服.md",
+    "知识库-private/开发工具/txt/markdown/Markdown编辑器一览大全.md",
+    "知识库-private/开发工具/txt/markdown/好用的Markdown编辑器一览.md",
+    "temp1.md",
+    "知识库-private/开发工具/txt/markdown如何换行.md",
+    "t2.md",
+    "99-Attachment/Java软件工程师求职-用于-6-最后更新202308251054-出天璇-紧凑版.md",
+    "知识库-private/windwos/host备份.md",
+    "知识库-private/开发工具/txt/typora/111.md",
+    "最齐的 Typora 使用教程_水木子_- 华为云开发者联盟.md",
+    "/最齐的 Typora 使用教程_水木子_- 华为云开发者联盟.md",
+    "知识库-private/前端/小程序/uni-app项目怎么运行？.md",
+    "host备份.md",
+    "Untitled.md",
+    "txt_repository/音乐/foobar2000/foobar2000-dream7180.md",
+    "知识库-private/前端/小程序",
+    "知识库-private/前端",
+    "知识库-private",
+    "txt_repository/音乐/foobar2000",
+    "txt_repository/音乐",
+    "未命名.canvas"
+  ]
+}

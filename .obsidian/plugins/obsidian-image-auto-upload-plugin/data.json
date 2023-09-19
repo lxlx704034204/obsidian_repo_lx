@@ -1,0 +1,108 @@
+{
+  "uploadByClipSwitch": false,
+  "uploader": "PicGo",
+  "uploadServer": "http://127.0.0.1:36677/upload",
+  "deleteServer": "http://127.0.0.1:36677/delete",
+  "imageSizeSuffix": "",
+  "picgoCorePath": "D:\\Installed_software\\tools\\picture\\PicList\\PicList.exe",
+  "workOnNetWork": true,
+  "fixPath": false,
+  "applyImage": true,
+  "newWorkBlackDomains": "",
+  "deleteSource": false,
+  "imageDesc": "origin",
+  "uploadedImages": [
+    {
+      "fileName": "s1.png",
+      "width": 417,
+      "height": 233,
+      "extname": ".png",
+      "imgUrl": "https://cdn.jsdelivr.net/gh/lxlx704034204/oss_img_lx@main/images/s1.png",
+      "hash": "fe41e238f7469632e3d431d0ae9e5d4a645e6343",
+      "type": "github",
+      "config": {
+        "_configName": "图床GitHub-PicGo",
+        "repo": "lxlx704034204/oss_img_lx",
+        "branch": "main",
+        "token": "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",
+        "path": "images/",
+        "_id": "72230359-9a13-411d-ac02-f8bd5783edf5",
+        "_createdAt": 1691048489977,
+        "_updatedAt": 1691054433027,
+        "customUrl": "https://cdn.jsdelivr.net/gh/lxlx704034204/oss_img_lx@main"
+      },
+      "id": "b9ee54e1-c2c7-43c5-bca5-7b95e43b2f49",
+      "createdAt": 1691062949879,
+      "updatedAt": 1691062949879
+    },
+    {
+      "fileName": "ma1 - 副本.png",
+      "width": 300,
+      "height": 647,
+      "extname": ".png",
+      "imgUrl": "https://cdn.jsdelivr.net/gh/lxlx704034204/oss_img_lx@main/images/ma1%20-%20%E5%89%AF%E6%9C%AC.png",
+      "hash": "7e8d842544ce2f48377791e8fdfc2f0201d5c060",
+      "type": "github",
+      "config": {
+        "_configName": "图床GitHub-PicGo",
+        "repo": "lxlx704034204/oss_img_lx",
+        "branch": "main",
+        "token": "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",
+        "path": "images/",
+        "_id": "72230359-9a13-411d-ac02-f8bd5783edf5",
+        "_createdAt": 1691048489977,
+        "_updatedAt": 1691054433027,
+        "customUrl": "https://cdn.jsdelivr.net/gh/lxlx704034204/oss_img_lx@main"
+      },
+      "id": "a29b3a44-b0a2-4871-ab02-dd06f3aeab19",
+      "createdAt": 1691115389216,
+      "updatedAt": 1691115389216
+    },
+    {
+      "fileName": "ma1 - 副本.png",
+      "width": 300,
+      "height": 647,
+      "extname": ".png",
+      "imgUrl": "https://cdn.jsdelivr.net/gh/lxlx704034204/oss_img_lx@main/images/ma1%20-%20%E5%89%AF%E6%9C%AC.png",
+      "hash": "7e8d842544ce2f48377791e8fdfc2f0201d5c060",
+      "type": "github",
+      "config": {
+        "_configName": "图床GitHub-PicGo",
+        "repo": "lxlx704034204/oss_img_lx",
+        "branch": "main",
+        "token": "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",
+        "path": "images/",
+        "_id": "72230359-9a13-411d-ac02-f8bd5783edf5",
+        "_createdAt": 1691048489977,
+        "_updatedAt": 1691054433027,
+        "customUrl": "https://cdn.jsdelivr.net/gh/lxlx704034204/oss_img_lx@main"
+      },
+      "id": "166efc6d-7926-45b0-9b62-1238809c6d92",
+      "createdAt": 1691115863735,
+      "updatedAt": 1691115863735
+    },
+    {
+      "fileName": "美女图1.jpg",
+      "width": 486,
+      "height": 570,
+      "extname": ".jpg",
+      "imgUrl": "https://cdn.jsdelivr.net/gh/lxlx704034204/oss_img_lx@main/images/%E7%BE%8E%E5%A5%B3%E5%9B%BE1.jpg",
+      "hash": "97961888bf3426a0f630154c62ce94178ee133e6",
+      "type": "github",
+      "config": {
+        "_configName": "图床GitHub-PicGo",
+        "repo": "lxlx704034204/oss_img_lx",
+        "branch": "main",
+        "token": "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",
+        "path": "images/",
+        "_id": "72230359-9a13-411d-ac02-f8bd5783edf5",
+        "_createdAt": 1691048489977,
+        "_updatedAt": 1691054433027,
+        "customUrl": "https://cdn.jsdelivr.net/gh/lxlx704034204/oss_img_lx@main"
+      },
+      "id": "d7cd2ba0-3b15-4fc2-93e9-8f5e5cf5b288",
+      "createdAt": 1691118082214,
+      "updatedAt": 1691118082214
+    }
+  ]
+}

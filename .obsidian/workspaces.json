@@ -1,0 +1,246 @@
+{
+  "workspaces": {
+    "工作区布局备份1": {
+      "main": {
+        "id": "831d3e577a7fa90a",
+        "type": "split",
+        "children": [
+          {
+            "id": "46f2a7edd9b974e0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8d6b36d49991bfcd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4483f1affd038b13",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "txt_repository/Obsidian入门/插件 汇总/插件 分类.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "021891d7a9c5ad8a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20-Diary/20-Diary.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "9448b25f24520256",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20-Diary/20-Diary.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "a788cfd68b91db31",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "未命名.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "50f614a9270fd78d",
+        "type": "split",
+        "children": [
+          {
+            "id": "b8ea245c596851b5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "94527b9924a3d887",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "57729b7648f21f4f",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#f4fbf5",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "59a3a02638d44ce1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ea21ad4dbe454cba",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ac31793a9398d87b",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 227.5
+      },
+      "right": {
+        "id": "c74b8bacdcbb5f71",
+        "type": "split",
+        "children": [
+          {
+            "id": "d5d3f71c4bf05d68",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8642b9b66b2fe1b8",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "txt_repository/Obsidian入门/插件 汇总/插件 分类.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "2139cb80b7455955",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "txt_repository/Obsidian入门/插件 汇总/插件 分类.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3b96a51896a5efef",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "76557621beabebd6",
+                "type": "leaf",
+                "state": {
+                  "type": "side-panel-control-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e58fec55d082fbf3",
+                "type": "leaf",
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "omnisearch:Omnisearch": false,
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+          "canvas:新建白板": false,
+          "webpage-html-export:Export Vault to HTML": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "obsidian-projects:Open projects": false,
+          "templater-obsidian:Templater": false,
+          "templates:插入模板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "oz-clear-unused-images:Clear Unused Images": false,
+          "obsidian42-brat:BRAT": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "dbfolder:创建一个新数据库表": false
+        }
+      },
+      "active": "e58fec55d082fbf3"
+    }
+  },
+  "active": "工作区布局备份1"
+}
