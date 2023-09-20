@@ -34,5 +34,7 @@
   "vimMode": false,
   "showInlineTitle": false,
   "mobilePullAction": "command-palette:open",
-  "focusNewTab": false
+  "focusNewTab": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }

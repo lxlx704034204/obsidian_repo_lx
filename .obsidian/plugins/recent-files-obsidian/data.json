@@ -5,12 +5,48 @@
       "path": "知识库-private/PC维护/windows/windows故障 汇总.md"
     },
     {
+      "basename": "typora、obsidian写法差异",
+      "path": "txt_repository/Obsidian入门/markdown语法/typora、obsidian写法差异.md"
+    },
+    {
       "basename": "Pasted image 20230915163357",
       "path": "99-Attachment/Pasted image 20230915163357.png"
     },
     {
       "basename": "面试话术精华",
       "path": "知识库-private/个人/面试相关/面试话术精华.md"
+    },
+    {
+      "basename": "typora的基本使用方法（快捷键和基础设置）",
+      "path": "知识库-private/开发工具/txt/typora/typora的基本使用方法（快捷键和基础设置）.md"
+    },
+    {
+      "basename": "图片地址",
+      "path": "图片地址.md"
+    },
+    {
+      "basename": "typora优化",
+      "path": "知识库-private/开发工具/txt/typora/typora优化.md"
+    },
+    {
+      "basename": "最齐全的Typora使用教程",
+      "path": "知识库-private/开发工具/txt/typora/最齐全的Typora使用教程.md"
+    },
+    {
+      "basename": "主题测试专用",
+      "path": "txt_repository/Obsidian入门/markdown语法/主题测试专用.md"
+    },
+    {
+      "basename": "PicGo上传图片压缩插件",
+      "path": "txt_repository/Obsidian入门/PicGo上传图片压缩插件.md"
+    },
+    {
+      "basename": "MarkDown超级教程 Obsidian版_11.4",
+      "path": "txt_repository/Obsidian入门/markdown语法/MarkDown超级教程 Obsidian版_11.4.md"
+    },
+    {
+      "basename": "插件 分类",
+      "path": "txt_repository/Obsidian入门/插件 汇总/插件 分类.md"
     },
     {
       "basename": "50-Inbox",
@@ -25,16 +61,8 @@
       "path": "知识库-private/开发工具/浏览器/百度搜索-高级.md"
     },
     {
-      "basename": "插件 分类",
-      "path": "txt_repository/Obsidian入门/插件 汇总/插件 分类.md"
-    },
-    {
       "basename": "Pasted image 20230808104726",
       "path": "99-Attachment/Pasted image 20230808104726.png"
-    },
-    {
-      "basename": "PicGo上传图片压缩插件",
-      "path": "txt_repository/Obsidian入门/PicGo上传图片压缩插件.md"
     },
     {
       "basename": "PicGo GitHub个人图床搭建",
@@ -153,10 +181,6 @@
       "path": "20-Diary/2022-01-10.md"
     },
     {
-      "basename": "MarkDown超级教程 Obsidian版_11.4",
-      "path": "txt_repository/Obsidian入门/markdown语法/MarkDown超级教程 Obsidian版_11.4.md"
-    },
-    {
       "basename": "开源笔记 汇总",
       "path": "txt_repository/开源笔记软件 汇总/开源笔记 汇总.md"
     },
@@ -175,14 +199,6 @@
     {
       "basename": "浏览器扩展市场 汇总",
       "path": "txt_repository/开源笔记软件 汇总/浏览器扩展市场 汇总.md"
-    },
-    {
-      "basename": "主题测试专用",
-      "path": "txt_repository/Obsidian入门/markdown语法/主题测试专用.md"
-    },
-    {
-      "basename": "typora、obsidian写法差异",
-      "path": "txt_repository/Obsidian入门/markdown语法/typora、obsidian写法差异.md"
     }
   ],
   "omittedPaths": [],

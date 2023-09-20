@@ -45,10 +45,10 @@
   },
   "treeData": [
     {
-      "id": "7bfd57dbcc260709",
+      "id": "bfd7f93b72919c62",
       "parent": 0,
       "droppable": true,
-      "text": "高级搜索",
+      "text": "New Tab",
       "data": {
         "fileType": "site",
         "fileSize": "",

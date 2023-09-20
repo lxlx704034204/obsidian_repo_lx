@@ -2,6 +2,8 @@ https://blog.csdn.net/weixin_45627376/article/details/129030944
 
 ### [typora](https://so.csdn.net/so/search?q=typora&spm=1001.2101.3001.7020)的基本使用方法（快捷键和基础设置）
 
+Ctrl+\ 预览、源码模式切换
+
 ## 一、typora的基本使用方法
 
 ## 1.标题级数 快捷键：Ctrl + 1~6
