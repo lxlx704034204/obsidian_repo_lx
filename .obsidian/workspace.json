@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a26f1604558cd23b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程二.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "67d89938689efe2e",
             "type": "leaf",
             "pinned": true,
@@ -47,8 +34,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "61533242ef602809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程-带吸收.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,13 +131,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程二.md",
+                "file": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程-带吸收.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程二.md",
+                "file": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程-带吸收.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +197,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,19 +224,19 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "307913824f77a8aa",
+  "active": "61533242ef602809",
   "lastOpenFiles": [
-    "知识库-private/开发工具/txt/typora/最齐全的Typora使用教程.md",
+    "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程一.md",
     "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程二.md",
     "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程-带吸收.md",
-    "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程一.md",
+    "知识库-private/开发工具/txt/typora/最齐全的Typora使用教程.md",
+    "知识库-private/计算机/计算机网络/交换机、路由器.md",
     "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程",
     "知识库-private/开发工具/txt/markdown/markdown语法/主题测试专用.md",
     "知识库-private/开发工具/txt/markdown/markdown语法/typora、obsidian写法差异.md",
     "50-Inbox/50-Inbox.md",
     "知识库-private/待分类",
     "知识库-private/开发工具/txt/我来笔记",
-    "知识库-private/计算机/计算机网络/交换机、路由器.md",
     "知识库-private/个人/面试相关/面试话术精华.md",
     "知识库-private/PC维护/windows/windows故障 汇总.md",
     "知识库-private/开发工具/txt/Obsidian入门/插件 汇总/PicGo GitHub个人图床搭建.md",

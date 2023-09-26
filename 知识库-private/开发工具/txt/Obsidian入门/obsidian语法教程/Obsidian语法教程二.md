@@ -1,4 +1,5 @@
 
+https://zhuanlan.zhihu.com/p/492199426?utm_id=0  Obsidian教程二
 ___
 
 date: 2021-11-3 18:01 aliases: \[Markdown教程,MD教程\] tags: \["Markdown"\]

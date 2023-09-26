@@ -1,4 +1,4 @@
-
+https://zhuanlan.zhihu.com/p/492198616  Obsidian教程一
 ___
 
 created: 2021-08-09 10:18 modified: 2022-01-12 周三 21:40 aliases: \[Markdown教程,MD教程\] tags: \["#Markdown #Obsidian"\]

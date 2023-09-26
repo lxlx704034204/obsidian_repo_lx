@@ -6,8 +6,7 @@ https://zhuanlan.zhihu.com/p/492198616   Obsidian教程一
 
 https://www.yuque.com/yinghuo-8mbbt/kb/gilnnh markdown 语法大全 模板大全
 
-https://zhuanlan.zhihu.com/p/492198616  Obsidian教程一
-https://zhuanlan.zhihu.com/p/492199426?utm_id=0  Obsidian教程二
+
 
 # 什么是 Markdown?
 
@@ -409,7 +408,7 @@ Gif演示2：
 2. 第一级 有序列表3
 
 #### 4.4.5 Obsidian 的一些缩退问题
-[[Obsidian语法教程二]]
+[Obsidian语法教程二](Obsidian语法教程二.md)
 
 Obsidian 在列表首行使用缩进的时候，后续的列表会出现一些问题 
 - - Tab 和 Shift + tab 会无法 缩进 退格 
