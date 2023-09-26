@@ -409,6 +409,7 @@ Gif演示2：
 
 #### 4.4.5 Obsidian 的一些缩退问题
 [Obsidian语法教程二](Obsidian语法教程二.md)
+[[Obsidian语法教程二]]
 
 Obsidian 在列表首行使用缩进的时候，后续的列表会出现一些问题 
 - - Tab 和 Shift + tab 会无法 缩进 退格 
