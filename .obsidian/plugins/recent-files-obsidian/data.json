@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "系统安装",
+      "path": "知识库-private/PC维护/windows/系统安装.md"
+    },
+    {
       "basename": "Obsidian语法教程-带吸收",
       "path": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程-带吸收.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-11-04",
       "path": "20-Diary/2022-11-04.md"
-    },
-    {
-      "basename": "2022-08-19",
-      "path": "20-Diary/2022-08-19.md"
     }
   ],
   "omittedPaths": [],

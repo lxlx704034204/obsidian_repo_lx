@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程-带吸收.md",
+                "file": "知识库-private/PC维护/windows/系统安装.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程-带吸收.md",
+                "file": "知识库-private/PC维护/windows/系统安装.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程-带吸收.md",
+                "file": "知识库-private/PC维护/windows/系统安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +227,9 @@
   },
   "active": "778450d2686b893b",
   "lastOpenFiles": [
-    "知识库-private/计算机/计算机网络/交换机、路由器.md",
     "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程-带吸收.md",
+    "知识库-private/PC维护/windows/系统安装.md",
+    "知识库-private/计算机/计算机网络/交换机、路由器.md",
     "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程二.md",
     "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程一.md",
     "知识库-private/开发工具/txt/typora/最齐全的Typora使用教程.md",
@@ -272,7 +273,6 @@
     "知识库-private/开发工具/txt/Obsidian入门/ob重点功能 备忘入门.md",
     "知识库-private/个人/婚礼/西服.md",
     "知识库-private/开发工具/txt/markdown/Markdown编辑器一览大全.md",
-    "知识库-private/开发工具/txt/markdown/好用的Markdown编辑器一览.md",
     "未命名.canvas"
   ]
 }
