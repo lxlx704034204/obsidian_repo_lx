@@ -1,3 +1,4 @@
+MarkDown超级教程 Obsidian版_11.4
 
 http://www.5ityx.com/cate100/256387.html
 
@@ -5,7 +6,8 @@ https://zhuanlan.zhihu.com/p/492198616   Obsidian教程一
 
 https://www.yuque.com/yinghuo-8mbbt/kb/gilnnh markdown 语法大全 模板大全
 
-
+https://zhuanlan.zhihu.com/p/492198616  Obsidian教程一
+https://zhuanlan.zhihu.com/p/492199426?utm_id=0  Obsidian教程二
 
 # 什么是 Markdown?
 
@@ -407,14 +409,32 @@ Gif演示2：
 2. 第一级 有序列表3
 
 #### 4.4.5 Obsidian 的一些缩退问题
+[[Obsidian语法教程二]]
 
-Obsidian 在列表首行使用缩进的时候，后续的列表会出现一些问题 Tab 和 Shift + tab 会无法 缩进 退格 可以使用 Ctrl + ] 与 Ctrl + [ 来解决问题
+Obsidian 在列表首行使用缩进的时候，后续的列表会出现一些问题 
+- - Tab 和 Shift + tab 会无法 缩进 退格 
+  - 可以使用 Ctrl + ] 与 Ctrl + [ 来解决问题
+
+<br>
 
 - - 这是第一段就被缩进的列表
-	- 这是第二段被再次缩进的列表  <!-- 这里需按两次 Ctrl + ] ,Tab键是无效的 -->
+  - 这是第二段被再次缩进的列表  <!-- 这里需按两次 Ctrl + ] ,Tab键是无效的 -->
   - 这是第三段列表  <!-- Ctrl + [ -->
 
-这是第一段就被缩进的列表 - 这是第二段被再次缩进的列表 这是第三段列表
+<br>
+
+- 这是第一段就被缩进的列表 
+- 这是第二段被再次缩进的列表 
+- 这是第三段列表
+
+#### 首行缩进&空格
+半方大的空白&ensp;或&#8194;
+
+全方大的空白&emsp;或&#8195;
+
+不断行的空白格&nbsp;或&#160;
+
+多个空格用 " ; " 符号分开
 
 ## 5. 网页链接与图像
 

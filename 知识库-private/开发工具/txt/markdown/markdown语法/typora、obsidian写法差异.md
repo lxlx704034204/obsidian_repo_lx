@@ -23,5 +23,5 @@ obsidian不支持typora的 三个斜点 的写法
 左边是wiki语法，右边是markdown语法；可以设置： 设置-文件与连接-使用wiki连接 off。
 
 设置-文件与连接-内部链接类型-相对路径
-![](../../../99-Attachment/Pasted%20image%2020230915163357.png)  
+![](../../../../../99-Attachment/Pasted%20image%2020230915163357.png)  
    上级上级上级/99-Attachment

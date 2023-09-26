@@ -7,6 +7,8 @@ https://zhuanlan.zhihu.com/p/489236769  github+picGo+typora
 ## Typora主要功能 汇总
 Typora Pandoc 文件格式转换导出
 https://zhuanlan.zhihu.com/p/639609854 
+
+
 ## 图片问题
 
 ### 图片引用格式
@@ -39,13 +41,13 @@ https://zhuanlan.zhihu.com/p/639609854
 ```
 <p><img src="https://img-blog.csdnimg.cn/20200822014538211.png" align="left" width=20% /></p>
 
-div标签：本地、网图：typora中有效，obsidian中无效。
+div标签：本地、网图：typora中有效，obsidian中无效。  
 
 ```
-<div align=left><img src=https://img-blog.csdnimg.cn/20200822014538211.png /></div>
+<div align=left><img src=https://img-blog.csdnimg.cn/20200822014538211.png width = 30% /></div>
 ```
 
-<div align=left> <img src=https://img-blog.csdnimg.cn/20200822014538211.png /> </div>
+<div align=left> <img src=https://img-blog.csdnimg.cn/20200822014538211.png width = 30% /> </div>
 
 
 

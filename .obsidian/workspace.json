@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "519f5991c0a460df",
+            "id": "a26f1604558cd23b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "txt_repository/Obsidian入门/PicGo上传图片压缩插件.md",
+                "file": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程二.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -41,56 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库-private/个人/面试相关/面试话术精华.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4483f1affd038b13",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "txt_repository/Obsidian入门/插件 汇总/插件 分类.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "410ea759f08ff11b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "知识库-private/计算机/计算机网络/交换机、路由器.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "1a6d292f56696879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库-private/PC维护/windows/host备份.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "width",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,14 +130,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库-private/PC维护/windows/host备份.md",
+                "file": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程二.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -189,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库-private/PC维护/windows/host备份.md",
+                "file": "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -266,20 +224,32 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "94527b9924a3d887",
+  "active": "307913824f77a8aa",
   "lastOpenFiles": [
-    "知识库-private/开发工具/txt/文字颜色-常用.md",
+    "知识库-private/开发工具/txt/typora/最齐全的Typora使用教程.md",
+    "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程二.md",
+    "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程-带吸收.md",
+    "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程一.md",
+    "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程",
+    "知识库-private/开发工具/txt/markdown/markdown语法/主题测试专用.md",
+    "知识库-private/开发工具/txt/markdown/markdown语法/typora、obsidian写法差异.md",
+    "50-Inbox/50-Inbox.md",
+    "知识库-private/待分类",
+    "知识库-private/开发工具/txt/我来笔记",
     "知识库-private/计算机/计算机网络/交换机、路由器.md",
+    "知识库-private/个人/面试相关/面试话术精华.md",
     "知识库-private/PC维护/windows/windows故障 汇总.md",
+    "知识库-private/开发工具/txt/Obsidian入门/插件 汇总/PicGo GitHub个人图床搭建.md",
+    "知识库-private/开发工具/txt/Obsidian入门/PicGo上传图片压缩插件.md",
+    "知识库-private/开发工具/txt/文字颜色-常用.md",
+    "知识库-private/PC维护/windows/host备份.md",
     "99-Attachment/Pasted image 20230925184028.png",
     "99-Attachment/Pasted image 20230925183007.png",
-    "txt_repository/Obsidian入门/插件 汇总/插件 分类.md",
+    "知识库-private/开发工具/txt/Obsidian入门/插件 汇总/插件 分类.md",
     "99-Attachment/Pasted image 20230925113118.png",
-    "知识库-private/个人/面试相关/面试话术精华.md",
     "99-Attachment/Pasted image 20230925112917.png",
     "知识库-private/计算机/计算机网络",
     "知识库-private/计算机",
-    "txt_repository/Obsidian入门/markdown语法/typora、obsidian写法差异.md",
     "图片地址.md",
     "99-Attachment/Pasted image 20230915163357.png",
     "知识库-private/开发工具/txt/typora/typora的基本使用方法（快捷键和基础设置）.md",
@@ -288,11 +258,6 @@
     "知识库-private/PC维护/Pasted image 20230915163357.png",
     "知识库-private/PC维护/windows/Pasted image 20230915163357.png",
     "知识库-private/开发工具/txt/typora/typora优化.md",
-    "知识库-private/开发工具/txt/typora/最齐全的Typora使用教程.md",
-    "txt_repository/Obsidian入门/markdown语法/主题测试专用.md",
-    "txt_repository/Obsidian入门/PicGo上传图片压缩插件.md",
-    "txt_repository/Obsidian入门/markdown语法/MarkDown超级教程 Obsidian版_11.4.md",
-    "50-Inbox/50-Inbox.md",
     "知识库-private/个人/面试相关/1",
     "知识库-private/个人/面试相关",
     "99-Attachment/Pasted image 20230915165258.png",
@@ -301,19 +266,12 @@
     "知识库-private/PC维护/windows",
     "知识库-private/PC维护",
     "知识库-private/开发工具/未命名",
-    "txt_repository/Obsidian入门/插件 汇总/PicGo GitHub个人图床搭建.md",
     "lx331.md",
-    "txt_repository/Obsidian入门/obsidian常用快捷键.md",
-    "txt_repository/Obsidian入门/ob重点功能 备忘入门.md",
+    "知识库-private/开发工具/txt/Obsidian入门/obsidian常用快捷键.md",
+    "知识库-private/开发工具/txt/Obsidian入门/ob重点功能 备忘入门.md",
     "知识库-private/个人/婚礼/西服.md",
     "知识库-private/开发工具/txt/markdown/Markdown编辑器一览大全.md",
     "知识库-private/开发工具/txt/markdown/好用的Markdown编辑器一览.md",
-    "temp1.md",
-    "知识库-private/开发工具/txt/markdown如何换行.md",
-    "t2.md",
-    "知识库-private/前端/小程序",
-    "知识库-private/前端",
-    "知识库-private",
     "未命名.canvas"
   ]
 }
