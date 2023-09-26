@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "交换机、路由器",
-      "path": "知识库-private/计算机/计算机网络/交换机、路由器.md"
+      "basename": "host备份",
+      "path": "知识库-private/PC维护/windows/host备份.md"
     },
     {
       "basename": "文字颜色-常用",
       "path": "知识库-private/开发工具/txt/文字颜色-常用.md"
+    },
+    {
+      "basename": "交换机、路由器",
+      "path": "知识库-private/计算机/计算机网络/交换机、路由器.md"
     },
     {
       "basename": "windows故障 汇总",
@@ -111,10 +115,6 @@
     {
       "basename": "markdown如何换行",
       "path": "知识库-private/开发工具/txt/markdown如何换行.md"
-    },
-    {
-      "basename": "host备份",
-      "path": "知识库-private/windwos/host备份.md"
     },
     {
       "basename": "uni-app项目怎么运行？",

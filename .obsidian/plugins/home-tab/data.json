@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "知识库-private/计算机/计算机网络/交换机、路由器.md",
-      "timestamp": 1695695932643
+      "filepath": "知识库-private/PC维护/windows/host备份.md",
+      "timestamp": 1695696367407
     },
     {
       "filepath": "知识库-private/开发工具/txt/文字颜色-常用.md",
-      "timestamp": 1695695925834
+      "timestamp": 1695696359525
+    },
+    {
+      "filepath": "知识库-private/计算机/计算机网络/交换机、路由器.md",
+      "timestamp": 1695695932643
     },
     {
       "filepath": "知识库-private/PC维护/windows/windows故障 汇总.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "99-Attachment/Pasted image 20230925183007.png",
       "timestamp": 1695637819847
-    },
-    {
-      "filepath": "txt_repository/Obsidian入门/插件 汇总/插件 分类.md",
-      "timestamp": 1695637814743
     }
   ],
   "starredFileStore": [
