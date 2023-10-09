@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "知识库-private/PC维护/windows/系统安装.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -196,6 +196,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "076ffec77e89f0ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识库-private/PC维护/windows/系统安装.md"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -227,8 +237,8 @@
   },
   "active": "778450d2686b893b",
   "lastOpenFiles": [
-    "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程-带吸收.md",
     "知识库-private/PC维护/windows/系统安装.md",
+    "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程-带吸收.md",
     "知识库-private/计算机/计算机网络/交换机、路由器.md",
     "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程二.md",
     "知识库-private/开发工具/txt/Obsidian入门/obsidian语法教程/Obsidian语法教程一.md",
